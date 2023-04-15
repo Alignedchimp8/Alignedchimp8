@@ -1,5 +1,5 @@
 <h1 >
-  Hello World!
+  Saul Omar - Cloud Administrator
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -28,12 +28,18 @@
 
 
 ## 🚀 About Me
-Soy estudiante de UPIICSA. Actualmente estoy en el camino de convertirme en Software Engineer.
+Welcome to my GitHub profile! As a cloud administrator, I am passionate about leveraging cloud technologies to improve efficiency, scalability, and performance.
+
+Skills and Expertise
 ```JS
 const Alignedchimp8 = {
     pronouns: "He" | "Him",
-    code: ["Python", "Java", "C", "C++", "HTML", "CSS", "MongoDB"],
-    askMeAbout: ["Programming", "Linux"],
+    Public and Private Cloud Platforms : (AWS, Azure, GCP)
+    Infrastructure as Code : (Terraform, CloudFormation, ARM Templates)
+    Configuration Management : (Ansible, Chef, Puppet)
+    Continuous Integration and Delivery : (Jenkins, GitLab CI/CD)
+    Containerization and Orchestration : (Docker, Kubernetes)
+    Scripting and Automation : (Python, Bash),
 };
 ```
 ## 🔭 Actualmente estoy trabajando en ...
