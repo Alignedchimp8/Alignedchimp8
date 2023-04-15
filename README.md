@@ -71,7 +71,7 @@ const Alignedchimp8 = {
   <img src="https://i.imgur.com/ijCimlz.gif" width="150"/>
   <h3>
    
-    🐳🐳🐳Las ballenas son mi animal favorito. Me encanta el logo de Docker🐋🐋🐋
+    🐳🐳🐳Whales are my favorite animal. I love the Docker logo🐋🐋🐋
   </h3>
 </div>
 
