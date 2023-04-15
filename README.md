@@ -42,12 +42,13 @@ const Alignedchimp8 = {
     Scripting and Automation : (Python, Bash),
 };
 ```
-## 🔭 Actualmente estoy trabajando en ...
+## 🔭 Currently working on ...
 
-- Certificarme en MongoDB Developer.
-- Certificarme en Azure.
-- Terminar mi carrera.
-- Aprender Frances.
+ - Improving my knowledge on cloud technologies such as AWS, Azure, and Google Cloud Platform.
+ - Setting up a Kubernetes cluster for a personal project.
+ - Automating infrastructure deployments using Terraform and Ansible.
+ - Learning and implementing best practices for cloud security and compliance.
+ - Developing scripts to improve system monitoring and logging.
 
 ### 🎬 Vídeos en los que he trabajado ...
 
