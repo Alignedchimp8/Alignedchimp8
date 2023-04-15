@@ -50,7 +50,7 @@ const Alignedchimp8 = {
  - Learning and implementing best practices for cloud security and compliance.
  - Developing scripts to improve system monitoring and logging.
 
-### 🎬 Vídeos en los que he trabajado ...
+### 🎬 Videos I have worked on ...
 
 <!-- YOUTUBE:START -->
 - [Hoy hablaremos de ITIL Service Management Model](https://www.youtube.com/watch?v=B02WnI5IJQM&t=372s)
