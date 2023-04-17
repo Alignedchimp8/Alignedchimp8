@@ -33,12 +33,11 @@ Welcome to my GitHub profile! As a cloud administrator, I am passionate about le
 Skills and Expertise
 ```JS
 const Alignedchimp8 = {
-    pronouns: "He" | "Him",
-    Public and Private Cloud Platforms : (AWS, Azure, GCP)
-    Infrastructure as Code : (Terraform, CloudFormation, ARM Templates)
-    Configuration Management : (Ansible, Chef, Puppet)
-    Continuous Integration and Delivery : (Jenkins, GitLab CI/CD)
-    Containerization and Orchestration : (Docker, Kubernetes)
+    Public and Private Cloud Platforms : (AWS, Azure, GCP),
+    Infrastructure as Code : (Terraform, CloudFormation, ARM Templates),
+    Configuration Management : (Ansible, Chef, Puppet),
+    Continuous Integration and Delivery : (Jenkins, GitLab CI/CD),
+    Containerization and Orchestration : (Docker, Kubernetes),
     Scripting and Automation : (Python, Bash),
 };
 ```
